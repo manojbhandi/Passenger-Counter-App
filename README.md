@@ -1,6 +1,6 @@
 # passenger counter app
 
-# hosted link@-    passesnger-counter-app.netlify.app
+# hosted link@---  [passesnger-counter-app.netlify.app]
 
 * A simple yet functional subway passenger app that counts number of passengers present per train :bullettrain_front: 
 * The paasenger count updates each time a train passes :bullettrain_front:
