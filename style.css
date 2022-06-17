@@ -1,0 +1,58 @@
+
+
+body {
+    background-image: url(./station.jpg);
+}
+.container {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    border: none;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+button:hover {
+    transform:  scale(.98);
+}
+
+/* people entered */
+
+#count-el {
+    font-size: 3rem;
+}
+
+#increment-btn {
+    background-color: rgb(167, 11, 11);
+}
+
+h1,
+h2 {
+    margin: 10px;
+}
+
+/* save */
+
+#save-btn {
+    background-color: gray;
+    color: black;
+    font-size: 1.3rem;
+}
+
+#save-el {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
